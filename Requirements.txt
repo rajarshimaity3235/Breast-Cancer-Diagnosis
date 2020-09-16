@@ -1,0 +1,6 @@
+Turicreate
+Pandas
+SFrame
+Matplotlib
+Seaborn
+numpy
