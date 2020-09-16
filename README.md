@@ -29,4 +29,4 @@ Attribute Information:
 ## Logistic Regression Model --
 Accuracy on Training Data : 0.98                                                                                                      
 Accuracy on Test Data : 1.00
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+!(https://github.com/rajarshimaity3235/Breast-Cancer-Diagnosis/lg1.png)
