@@ -36,6 +36,8 @@ Attribute Information:
 - Worst concave points
 - Mean of concave points
 
+![](images/Viz1.png)
+
 ## Logistic Regression Model --
 
 Accuracy on Training Data : 0.98                                                                                                      
@@ -67,5 +69,7 @@ Accuracy on Test Data : 0.96
 
 ![](images/D1.png)
 
-
+## Author
+Rajarshi Maity
+rajarshimaity3235@gmail.com
 
