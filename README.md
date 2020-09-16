@@ -45,6 +45,8 @@ Accuracy on Test Data : 1.00
 
 ![](images/lg2.png)
 
+**Logistic Regression with L2 regularization**
+
 ![](images/lg1.png)
 
 ![](images/lg3.png)
